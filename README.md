@@ -1,0 +1,1 @@
+Servidor simples em nodejs com express para servir aplicações em ReactJS e similares.
